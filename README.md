@@ -3,7 +3,7 @@ collect code example
 
 
 # tree
-
+```
 .
 ├── README.md
 └── go-code
@@ -19,5 +19,7 @@ collect code example
         ├── manager.go
         └── plugin.go
         
+```
+
         
 ## example 
