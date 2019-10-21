@@ -1,6 +1,9 @@
 #! /bin/bash
 
 ## getopts
+
+## https://sookocheff.com/post/bash/parsing-bash-script-arguments-with-shopts/
+
 usage="$(basename "$0") [-h] [-s n] -- program to calculate the answer to life, the universe and everything
 
 where:
