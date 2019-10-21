@@ -18,3 +18,10 @@ function get_json_value(){
   echo ${value}
 }
 
+
+
+### python 方式来解析
+
+curl -s 'http://ip.taobao.com/service/getIpInfo.php?ip=myip' | \
+    python3 -c "import sys, json; print(json.load(sys.stdin)['data']['ip'])"
+
