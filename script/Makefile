@@ -17,7 +17,7 @@ WARN_COLOR=\x1b[33;01m
 WHITE_COLOR=\x1b[1;37m
 GRAY_COLOR=\x1b[0;37m
 
-### https://bixense.com/clicolors/
+### 颜色参考 https://bixense.com/clicolors/
 
 # Go parameters
 GOCMD=GO111MODULE=on go
