@@ -14,6 +14,10 @@ NO_COLOR=\x1b[0m
 OK_COLOR=\x1b[32;01m
 ERROR_COLOR=\x1b[31;01m
 WARN_COLOR=\x1b[33;01m
+WHITE_COLOR=\x1b[1;37m
+GRAY_COLOR=\x1b[0;37m
+
+### https://bixense.com/clicolors/
 
 # Go parameters
 GOCMD=GO111MODULE=on go
