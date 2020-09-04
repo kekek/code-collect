@@ -1,3 +1,6 @@
+#!/usr/bin/env bash
+
+  ## doc https://www.jianshu.com/p/790fc612aaa5
   ############ color default ###############
      COLOR_NORMAL="\033[0m"
      COLOR_GREEN="\033[1;32m"
